@@ -1,0 +1,2 @@
+# aws-check_codepipelineV2
+CodepipelineV2の機能を検証するためのリポジトリ
